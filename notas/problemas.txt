@@ -1,0 +1,8 @@
+Listado de problemas 
+
+    1. Acceder a las apis del gobierno, el principal problema es el encontrar el formato correcto de la peticion para obtener lo deseado
+            https://datos.gob.es/apidata/catalog/dataset/l01462508-contenidors-vidre-contenedores-vidrio
+        posible enlace con informacion obtenido
+
+        https://valencia.opendatasoft.com/api/v2/catalog/datasets/contenidors-vidre-contenedores-vidrio/exports/json
+        url correcta de donde se situan los datos en formato json mediante la primera url he encontrado dentro de ella la url correcta
